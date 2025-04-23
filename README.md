@@ -10,3 +10,14 @@
 4. **Site Admin**: Full administrative rights over the DSpace platform. The site admin can manage users, metadata schemas, permissions, and settings for the entire DSpace instance.
 
 ---
+
+<h2> In this guide, we will cover the following areas </h2>
+
+ `Note : This guide was prepared for DSpace version 8` 
+
+ 
+01. [Submitter]()
+02. [Collection Admin]()
+03. [Community Admin]()
+04. [Site Admin]()
+   
