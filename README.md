@@ -10,7 +10,6 @@
 ---
 
 ##  Full DSpace 8 Workflow Guide with Example Scenario
-
 ###  Target: Practice the real-world workflow in [DSpace 8 Demo Site](https://demo.dspace.org/xmlui)
 ##  **Scenario**
 
