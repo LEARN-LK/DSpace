@@ -20,7 +20,7 @@
 
      <img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/SA4-siteadmin-add-TOP-community.png" alt="image" style="max-width: 100%;width: 500px;">
    
-4. Fill in [6]:
+3. Fill in [6]:
 
     <img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/SA5-site-admin-createcommunity.png" alt="image" style="max-width: 100%;width: 500px;">
   
@@ -29,22 +29,26 @@
    - **Short Description**: `Research and Academic Work`
    - **Introductory Text**: `This community contains final year projects and publications from the Faculty of Science.`
 
-6. Click **Save**
+4. Click **Save**
 
  You now have a top-level community.
 
 ---
 
-## 📂 Step 3: **Create a Collection Under the New Community**
+## 📂 Step 3: **Create a Collection Under the Faculty of Scince**
 
 1. After creating the community, you'll be redirected to its page.
-2. Click **“Add”** → **“Collection”**
-3. Fill in:
+2. In the **left sidebar**, click the **➕ icon** → select “**Collection**”
+3. In the dropdown list, search and select: **Faculty of Science**
+   
+   <img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/SA6-siteadmin-create-SUB-collection.png" alt="image" style="max-width: 100%;width: 500px;">
+  
+5. Fill in:
    - **Collection Name**: `Final Year Projects 2024`
    - **Short Description**: `Undergraduate final year research projects`
    - **License**: Keep default or add custom license
 
-4. Click **Save**
+6. Click **Save**
 
 ✅ Collection is now created inside `Faculty of Science`
 
