@@ -1,5 +1,7 @@
 
-## 🧑‍💼 Step 1: **Login as Site Administrator**
+##  Step 1: **Login as Site Administrator [1]**
+
+  <img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/SA1-siteadmin-login.png" alt="image" style="max-width: 100%;width: 500px;">
 
 - 📧 Email: `dspacedemo+admin@gmail.com`  
 - 🔐 Password: `dspacedemo`  
@@ -7,16 +9,27 @@
 
 ---
 
-## 🧱 Step 2: **Create a New Community**
+##  Step 2: **Create a New Community**
 
-1. Click on your name (top-right) → **My DSpace**
-2. On the **right sidebar**, click the **➕ icon** → select **“Community”**
-3. Fill in:
+1. Click on your name (top-right) → **My DSpace** [2]
+ <img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/SA2-siteadmin-mydspace.png" alt="image" style="max-width: 100%;width: 500px;">
+ 
+2. On the **right sidebar**, click the **➕ icon** [3] → select **“Community”**[4] →  Create **Top Level Community**[5]
+
+    <img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/SA3-siteadmin-plus%2B.png" alt="image" style="max-width: 100%;width: 500px;">
+
+     <img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/SA4-siteadmin-add-TOP-community.png" alt="image" style="max-width: 100%;width: 500px;">
+   
+4. Fill in [6]:
+
+    <img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/SA5-site-admin-createcommunity.png" alt="image" style="max-width: 100%;width: 500px;">
+  
+   
    - **Community Name**: `Faculty of Science`
    - **Short Description**: `Research and Academic Work`
    - **Introductory Text**: `This community contains final year projects and publications from the Faculty of Science.`
 
-4. Click **Save**
+6. Click **Save**
 
  You now have a top-level community.
 
