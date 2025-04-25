@@ -1,4 +1,4 @@
-### **What is DSpace?**
+## **What is DSpace?**
 **DSpace** is an open-source repository software platform used by institutions to store, manage, and share digital content like research papers, theses, dissertations, images, and videos. It is widely used in universities, research centers, and libraries for long-term preservation and easy access to digital assets.
 
 ### **Role Descriptions in DSpace 8**
@@ -9,7 +9,7 @@
 
 ---
 
-#  Full DSpace 8 Workflow Guide with Example Scenario
+##  Full DSpace 8 Workflow Guide with Example Scenario
 
 ###  Target: Practice the real-world workflow in [DSpace 8 Demo Site](https://demo.dspace.org/xmlui)
 ##  **Scenario**
