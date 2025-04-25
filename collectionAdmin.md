@@ -1,85 +1,41 @@
 
-### 🔹 **Step 2: Review and Approve Submission (Role: Collection Admin)**
+## 🧑‍🔧 Step 6: Login as Collection Admin to Review Submission
 
-#### 🎯 Objective:
-To review submitted items for correctness and approve or reject them.
+1. Log out → Log in as:
+   - 📧 `dspacedemo+colladmin@gmail.com`
+   - 🔐 `dspacedemo`
 
-#### ✅ Steps:
+2. Click **My DSpace**
+3. Under **Workflow Tasks**, find the submission:
+   - `AI-Based Traffic Management System`
 
-1. Log out and log in again as:
-   - 📧 Email: `dspacedemo+colladmin@gmail.com`
-   - 🔐 Password: `dspacedemo`
-
-2. Click on your name (top right) → select **My DSpace**
-3. Under **Workflow Tasks**, you’ll see the item submitted earlier (e.g., *“Smart Traffic System Using AI”*)
-4. Click the item title to:
+4. Click to open:
    - Review metadata
-   - Check uploaded file (if available)
+   - Approve if all looks good
 
-5. You may:
-   - Edit the metadata
-   - Approve the submission → published in the collection
-   - Reject → returns to the submitter
+✅ Submission is now approved and published.
 
 ---
 
-### 🔹 **Step 3: Browse or Manage Collection (Optional)**
+## 🔍 Step 7: Browse or Search Published Item
 
-If the item is approved, it will appear in:
+1. Go to **Home** → **Communities & Collections**
+2. Navigate:
+   - `Faculty of Science → Final Year Projects 2024`
+3. Find:
+   - `AI-Based Traffic Management System` listed there
 
-1. Home → **Communities & Collections**
-2. Click:
-   - 🧱 `Demo Community` → 🗂 `Demo Collection` → 📁 `Publications`
-3. View the item live in the repository
-
----
-
-## 🔍 Step-by-Step: **View Demo Submitter’s Submission**
-
-This is useful for Collection Admins or Site Admins who want to track what the **Submitter** has submitted.
+✅ Research item is now public in the repository.
 
 ---
 
-### ✅ Steps:
+## 🧾 Summary Table
 
-1. Log in as:
-   - 📧 `dspacedemo+colladmin@gmail.com`  
-   - 🔐 Password: `dspacedemo`
-
-2. Go to **My DSpace** (top right menu)
-3. Look under **Workflow Tasks**
-   - Submissions made by `dspacedemo+submit@gmail.com` will appear here
-   - Example: *“Smart Traffic System Using AI”*
-
-4. Click on the title to view:
-   - Metadata
-   - Uploaded file (if any)
-
-5. Choose to:
-   - ✅ Approve: The item gets published
-   - ❌ Reject: Returns to submitter
+| Role               | Email                                 | Actions                                  |
+|--------------------|----------------------------------------|------------------------------------------|
+| Site Admin         | `dspacedemo+admin@gmail.com`          | Create communities & collections         |
+| Collection Admin   | `dspacedemo+colladmin@gmail.com`      | Review/approve items                     |
+| Submitter          | `dspacedemo+submit@gmail.com`         | Submit new research                      |
 
 ---
 
-### 🔄 Optional: Search or Browse Collection
-
-If the submission has been approved:
-
-1. Go to **Communities & Collections**
-2. Navigate to:
-   - `Demo Community` → `Demo Collection` → `Publications`
-3. The item will now be **publicly listed**.
-
----
-
-## ✅ Summary
-
-| Role               | Actions                                                                 |
-|--------------------|-------------------------------------------------------------------------|
-| Submitter          | Submits a new item to a collection                                      |
-| Collection Admin   | Reviews, edits, approves/rejects the submission                         |
-| Site Admin         | Manages all system settings, users, metadata, and workflow configuration|
-
----
-
-Would you like a **printable PDF** version of this walkthrough, or a **practice scenario** to try with multiple roles?
