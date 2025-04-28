@@ -16,13 +16,13 @@
  
 2. On the **right sidebar**, click the **➕ icon** [3] → select **“Community”**[4] →  Create **Top Level Community**[5]
 
-    <img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/SA3-siteadmin-plus%2B.png" alt="image" style="max-width: 100%;width: 500px;">
+<img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/SA3-siteadmin-plus%2B.png" alt="image" style="max-width: 100%;width: 500px;">
 
-     <img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/SA4-siteadmin-add-TOP-community.png" alt="image" style="max-width: 100%;width: 500px;">
+<img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/SA4-siteadmin-add-TOP-community.png" alt="image" style="max-width: 100%;width: 500px;">
    
 3. Fill in [6]:
 
-    <img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/SA5-site-admin-createcommunity.png" alt="image" style="max-width: 100%;width: 500px;">
+<img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/SA5-site-admin-createcommunity.png" alt="image" style="max-width: 100%;width: 500px;">
   
    
    - **Community Name**: `Faculty of Science`
