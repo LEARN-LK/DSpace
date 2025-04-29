@@ -20,7 +20,7 @@
 ---
 
 1. [Site Admin](https://github.com/LEARN-LK/DSpace/blob/main/siteadmin.md)
-2. [Submitter]()
+2. [Submitter](https://github.com/LEARN-LK/DSpace/blob/main/Submitter.md)
 3. [Collection Admin]()
 4. [Community Admin]()
 
