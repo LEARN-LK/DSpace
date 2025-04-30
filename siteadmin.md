@@ -47,7 +47,7 @@
 ---
 
 
-## 📂 Step 3: **Create Collection – Final Year Projects 2024**
+##  Step 3: **Create Collection – Final Year Projects 2024**
 
 1. After creating the community, you'll be redirected to its page [7].
  <img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/SA6-siteadmin-created%20community%20page.png" alt="image" style="max-width: 100%;width: 500px;">
@@ -76,7 +76,7 @@
 
 ---
 
-## 👥 Step 4: **Assign Collection Admin or Submitter (Optional)**
+## Step 4: **Assign Collection Admin or Submitter (Optional)**
 
 If user roles were customizable in demo (they are limited), you would:
 
