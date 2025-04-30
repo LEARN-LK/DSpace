@@ -20,12 +20,11 @@
 ---
 
 1. Site Admin
-
-   [Create Community, Sub-Community & Collection](https://github.com/LEARN-LK/DSpace/blob/main/siteadmin.md)
-   add users []
-3. [Submitter]()
-4. [Collection Admin]()
-5. [Community Admin]()
+      -   [Create Community, Sub-Community & Collection](https://github.com/LEARN-LK/DSpace/blob/main/siteadmin.md)
+      -   [Add Users to Each Role in DSpace] ()        
+2. [Submitter]()
+3. [Collection Admin]()
+4. [Community Admin]()
 
 
 
