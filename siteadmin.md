@@ -87,98 +87,30 @@ If user roles were customizable in demo (they are limited), you would:
    - **Submitter** role to: `dspacedemo+submit@gmail.com`
    - **Reviewer/Editor** role to: `dspacedemo+colladmin@gmail.com`
 
-> ⚠️ Note: Demo site does not allow actual user-role assignment for security, but this is how you would do it in a real DSpace instance.
+---
+
+###  Step 5: Assign Roles & Permissions
+
+Go to:  
+**Final Year Projects 2024 → ⚙️ Edit Collection → Assign Roles**
+
+| **Role** | **Example Email** | **Permissions** | **Setup Location** |
+|----------|--------------------|-----------------|---------------------|
+| Submitter | `student123@uni.edu` | Submit, edit metadata, upload files, delete drafts, deposit | Under **Submitters**, add email |
+| Reviewer | `prof.reviewer@uni.edu` | Review submissions | Go to **Workflow → Review Step**, add email |
+| Editor | `editor.cs@uni.edu` | Edit metadata, curate items | Under **Curators**, add email |
+| Collection Admin | `cs.admin@uni.edu` | Manage collection | Under **Administrators**, add email |
+| Community Admin | `faculty.admin@uni.edu` | Manage the sub-community | Go to **Computer Science → Edit Community → Roles → Administrators** |
 
 ---
 
+###  Step 6: Configure Workflow
 
-
-
-
-
-
-
-
-
-
-
-
-
-
----
-
----
-
-### 🔹 Step 5: Assign Roles to the Collection
-
-> **NOTE:** This step is not possible on the public demo site due to permission limits, but is needed in a full installation.
-
-Assign roles (under Collection → ⚙️ Edit → Roles):
-
-| Role | Email | Responsibility |
-|------|-------|----------------|
-| Submitter | `dspacedemo+submit@gmail.com` | Upload projects |
-| Reviewer | `prof.reviewer@uni.edu` | Review/approve |
-| Editor | `editor.cs@uni.edu` | Edit metadata |
-| Collection Admin | `cs.admin@uni.edu` | Manage collection |
-| Community Admin | `faculty.admin@uni.edu` | Manage Computer Science sub-community |
-
----
-
-### 🔹 Step 6: Configure Workflow
-
-1. Go to Collection → ⚙️ **Edit Collection** → **Workflow**
-2. Assign:
+1. Go to:  
+   **Final Year Projects 2024 → ⚙️ Edit Collection → Workflow**
+2. Assign workflow steps:
    - **Step 1 – Review** → `prof.reviewer@uni.edu`
    - **Step 2 – Metadata Edit** → `editor.cs@uni.edu`
-   - **Final Approval** → Site Admin
+   - Optional: Final approval by Admin
 
 ---
-
-### 🔹 Step 7: Submit Research (as Submitter)
-
-1. Log out and log in as:  
-   **Email**: `dspacedemo+submit@gmail.com`  
-   **Password**: `dspace`
-
-2. Click **My DSpace** → right sidebar ➕ → **Item**
-
-3. In dropdown **select collection**:  
-   `Final Year Projects 2024`
-
-4. Fill submission details:
-   - **Title**: *AI-Powered Climate Prediction Model*
-   - **Authors**: Jane Doe, John Smith
-   - **Keywords**: Machine Learning, Climate, AI
-   - **Upload File**: PDF
-
-5. Click **Deposit**
-
----
-
-### 🔹 Step 8: Review & Approve (Reviewer/Editor)
-
-1. Login as reviewer/editor (if roles are allowed in your own DSpace)
-2. Go to **Tasks** → see new submission
-3. Approve / Edit metadata
-4. Once approved, item is archived and visible to the public
-
----
-
-## ✅ Final Test
-
-- Check the collection: `Computer Science → Final Year Projects 2024`
-- See your item listed!
-
----
-
-## 🧪 Want to Practice Fully?
-
-To assign roles & fully test the workflow:
-
-👉 I recommend **installing DSpace 8 locally**  
-Would you like a **step-by-step local installation guide** for Ubuntu/Linux?
-
-Let me know if you'd also like to simulate **review workflows** or use **Vagrant/Docker** for testing!
-
-
