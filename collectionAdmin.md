@@ -1,9 +1,9 @@
 
-## 🧑‍🔧 Step 6: Login as Collection Admin to Review Submission
+##  Step 6: Login as Collection Admin to Review Submission
 
 1. Log out → Log in as:
-   - 📧 `dspacedemo+colladmin@gmail.com`
-   - 🔐 `dspacedemo`
+   -  `dspacedemo+colladmin@gmail.com`
+   -  `dspacedemo`
 
 2. Click **My DSpace**
 3. Under **Workflow Tasks**, find the submission:
@@ -13,7 +13,7 @@
    - Review metadata
    - Approve if all looks good
 
-✅ Submission is now approved and published.
+ Submission is now approved and published.
 
 ---
 
@@ -25,11 +25,11 @@
 3. Find:
    - `AI-Based Traffic Management System` listed there
 
-✅ Research item is now public in the repository.
+ Research item is now public in the repository.
 
 ---
 
-## 🧾 Summary Table
+##  Summary Table
 
 | Role               | Email                                 | Actions                                  |
 |--------------------|----------------------------------------|------------------------------------------|
