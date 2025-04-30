@@ -58,7 +58,7 @@
    
 3. In the dropdown list, search and select: **Faculty of Science** > **Computer Science**[9]
 
-<img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/SA8-siteadmin-select-SUB-community%20name.png" alt="image" style="max-width: 100%;width: 500px;">
+<img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/SA8-siteadmin-select-SUB-communityname.png" alt="image" style="max-width: 100%;width: 500px;">
    
   
 4. Fill in [10]:
