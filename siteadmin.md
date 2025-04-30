@@ -62,7 +62,7 @@
    
   
 4. Fill in [10]:
-<img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/SA10-siteadmin-SUB-finalyearcommunity.png?raw=true" alt="image" style="max-width: 100%;width: 500px;">
+<img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/SA9-siteadmin-subcommunityname-finalyear.png" alt="image" style="max-width: 100%;width: 500px;">
 
    - **Collection Name**: `Final Year Projects 2024`
    - **Short Description**: `Undergraduate final year research projects`
@@ -70,9 +70,10 @@
 
 5. Click **Save**
 
-✅ Collection is now created inside `Faculty of Science`
+✅ Collection is now created inside `Faculty of Science > Computer Science` 
 
-<img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/SA10-siteadmin-SUB-finulyearcommunity.png" alt="image" style="max-width: 100%;width: 500px;">
+<img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/SA10-siteadmin-SUB-finalyearcommunity.png?raw=true" alt="image" style="max-width: 100%;width: 500px;">
+
 ---
 
 ## 👥 Step 4: **Assign Collection Admin or Submitter (Optional)**
