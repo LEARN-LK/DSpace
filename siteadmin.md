@@ -92,7 +92,12 @@ If user roles were customizable in demo (they are limited), you would:
 ###  Step 5: Assign Roles & Permissions
 
 Go to:  
-**Final Year Projects 2024 → ⚙️ Edit Collection → Assign Roles**
+**Final Year Projects 2024 → ⚙️ Edit Collection [11] → Assign Roles [12]**
+
+<img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/AR1-Editrole.png" alt="image" style="max-width: 100%;width: 500px;">
+<img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/AR2-Assignrole.png" alt="image" style="max-width: 100%;width: 500px;">
+
+
 
 | **Role** | **Example Email** | **Permissions** | **Setup Location** |
 |----------|--------------------|-----------------|---------------------|
