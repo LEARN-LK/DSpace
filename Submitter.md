@@ -2,11 +2,11 @@
 
 # Submitter
 
-## 🧑‍🎓 Step : **Login as Submitter and Submit an Item**
+##  Step : **Login as Submitter and Submit an Item**
 
 1. Log out and then log in as:
-   - 📧 Email: `dspacedemo+submit@gmail.com`
-   - 🔐 Password: `dspacedemo`
+   -  Email: `dspacedemo+submit@gmail.com`
+   -  Password: `dspacedemo`
 
 2. Go to **My DSpace**
 
@@ -31,7 +31,7 @@
 
 7. Click **Next** → **Review** → **Complete Submission**
 
-✅ The submission is now pending review by the collection admin.
+ The submission is now pending review by the collection admin.
 
 
 
