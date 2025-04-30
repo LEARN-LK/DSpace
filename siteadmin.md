@@ -62,7 +62,7 @@
    
   
 4. Fill in [10]:
-<img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/SA9-siteadmin-subcommunityname-finalyear.png" alt="image" style="max-width: 100%;width: 500px;">
+<img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/SA10-siteadmin-SUB-finalyearcommunity.png?raw=true" alt="image" style="max-width: 100%;width: 500px;">
 
    - **Collection Name**: `Final Year Projects 2024`
    - **Short Description**: `Undergraduate final year research projects`
