@@ -13,7 +13,8 @@
 ###  Target: Practice the real-world workflow in [DSpace 8 Demo Site](https://demo.dspace.org/xmlui)
 ##  **Scenario**
 
-> The university wants to set up a new community for the **Faculty of Science**.  
+> The university wants to set up a new community for the **Faculty of Science**.
+> Under the Faculty of Science, there is a subcategory **Computer Science**
 > Inside that community, a collection called **Final Year Projects 2024** will be created.  
 > A student (Submitter) will submit a project. The Collection Admin will review and approve it.
 
