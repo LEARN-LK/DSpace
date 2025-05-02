@@ -108,4 +108,3 @@ Visit:
 
 ---
 
-Would you like this as a downloadable **PDF or DOCX** for training sessions or printing?
