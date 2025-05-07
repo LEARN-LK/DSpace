@@ -1,110 +1,97 @@
 
-###  Step 4: Add Users to Each Role in DSpace
 
-####  **1. Submitter** (e.g., `student123@uni.edu`)
 
-- **Permissions**: Submit items, edit metadata, upload files, delete drafts  
-- **Steps**:  
-  1. Go to **Submitters** → Click **Add E-Person**  
-  2. Search for the email  
-     - If not found → click **Register New E-Person**  
-  3. Select user → Click **Add**  
-  4. **Save** changes
+
+Thank you! Here's the updated **Step 4** written in your preferred style, clearly outlining how to add users to each role in DSpace with precise interface navigation:
 
 ---
 
-####  **2. Reviewer** (e.g., `prof.reviewer@uni.edu`)
-
-- **Permissions**: Review and approve/reject  
-- **Steps**:  
-  1. Go to the **Workflow** tab  
-  2. Under **Review Step** → Click **Add E-Person**  
-  3. Search, select, and add the user  
-  4. **Save** changes
+### 🔹 **Step 4: Add Users to Each Role in DSpace**
 
 ---
 
-####  **3. Editor** (e.g., `editor.cs@uni.edu`)
+#### 🧭 **Navigation Path**
 
-- **Permissions**: Edit metadata, curate items  
-- **Steps**:  
-  1. Go to **Assign Roles** → Curators section  
-  2. Click **Add E-Person**, search, select, and add  
-  3. **Save** changes
+Go to:
+**Administration → Communities & Collections → Faculty of Science → Computer Science → Final Year Projects 2024**
+
+1. On the right side, click the **Edit button (pencil icon)** next to the **Final Year Projects 2024** collection.
+ <img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/AR1-Editrole.png" alt="image" style="max-width: 100%;width: 500px;">
+  
+   
+2. Click on **Assign Roles**.
+<img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/AR2-Assignrole.png" alt="image" style="max-width: 100%;width: 500px;">
+---
+
+### 👤 **Add a Submitter (e.g., `student123@uni.edu`)**
+
+1. In the **Submitters** section, click the **Create** button.
+2. Click on the **created collection role** – it will look something like:
+   `COLLECTION_2bce42eb-0994-47da-b148-e26e3f5d4783_SUBMIT`
+3. Inside this role page:
+
+   * Go to **Submitters** → Click **Add E-Person**
+   * **Search** for the user’s email
+   * If not found → click **Register New E-Person**
+   * **Select** the user → Click **Add**
+   * Click **Save Changes**
 
 ---
 
-####  **4. Collection Admin** (e.g., `cs.admin@uni.edu`)
+### 👤 **Add a Reviewer (e.g., `prof.reviewer@uni.edu`)**
 
-- **Permissions**: Manage collection  
-- **Steps**:  
-  1. Go to **Assign Roles** → Administrators  
-  2. Click **Add E-Person**, search, add  
-  3. **Save** changes
+1. In the same edit panel, switch to the **Workflow** tab
+2. Under the **Review Step**, click **Create** (if role doesn’t exist yet)
+3. Click the created role (e.g., `COLLECTION_..._REVIEW`)
+4. Inside that role:
 
----
-
-####  **5. Community Admin** (e.g., `faculty.admin@uni.edu`)
-
-- **Permissions**: Manage entire **Computer Science** sub-community  
-- **Steps**:  
-  1. Go to:  
-     `Administration → Communities & Collections → Faculty of Science → Computer Science → Edit Community → Roles`  
-  2. Under **Administrators** → Click **Add E-Person**  
-  3. Search, select, and add user  
-  4. **Save** changes
+   * Click **Add E-Person**
+   * Search → Register if needed → Add → Save
 
 ---
 
-###  Step 5: Create/Register E-People (If Needed)
+### 👤 **Add an Editor (Curator)** (e.g., `editor.cs@uni.edu`)
 
-If an email isn’t found during role assignment:
+1. Back under **Assign Roles**, find the **Curators** section
+2. Click **Create** (if not already created)
+3. Click on the generated group (e.g., `COLLECTION_..._CURATE`)
+4. Then:
 
-1. Go to:  
-   `Administration → E-People → Add E-Person`
-2. Fill in:  
-   - **Email**  
-   - **First/Last Name**  
-3. Click **Create**
-
-Use demo emails for testing, e.g.:  
-- `dspacedemo+submitter@gmail.com`  
-- `dspacedemo+reviewer@gmail.com`
+   * Click **Add E-Person**
+   * Search → Register if needed → Add → Save
 
 ---
 
-###  Step 6: Submit, Review & Approve
+### 👤 **Add a Collection Admin (e.g., `cs.admin@uni.edu`)**
 
-####  As **Submitter**:
-- Login → Go to **My DSpace**
-- Click ➕ → **Item** → Choose `Final Year Projects 2024`
-- Submit your project
+1. Under the **Administrators** section, click **Create**
+2. Click the generated group (e.g., `COLLECTION_..._ADMIN`)
+3. Then:
 
-####  As **Reviewer**:
-- Login → Go to **Tasks** or **Submissions**
-- Review and approve/reject
-
-####  As **Editor**:
-- Edit metadata before final approval
-
-####  As **Admin**:
-- Oversee and finalize submission
+   * Click **Add E-Person**
+   * Search → Register if needed → Add → Save
 
 ---
 
-###  Final Test
+### 👤 **Add a Community Admin (e.g., `faculty.admin@uni.edu`)**
 
-Visit:  
-**Communities & Collections → Faculty of Science → Computer Science → Final Year Projects 2024**  
-→ The approved item should be visible publicly.
+1. Navigate to:
+   `Faculty of Science → Computer Science → Edit Community → Roles`
+2. Under **Administrators**, click **Create**
+3. Click the generated group (e.g., `COMMUNITY_..._ADMIN`)
+4. Then:
+
+   * Click **Add E-Person**
+   * Search → Register if needed → Add → Save
+
+---
+
+### 📝 Notes
+
+* All roles must be **created first** before assigning users.
+* You can use demo accounts like `dspacedemo+submitter@gmail.com` for quick testing.
+* Roles like `COLLECTION_..._SUBMIT`, `..._REVIEW`, etc., are auto-generated by DSpace after creation.
 
 ---
 
-###  Key Notes
-
-- **Submitters** can edit until approval  
-- **Curators/Admins** can edit any time  
-- **Roles are flexible** and stackable (e.g., a user can be both reviewer and editor)
-
----
 
