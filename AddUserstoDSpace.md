@@ -87,4 +87,3 @@ You can treat **Final Editors** as an extended curator group or create a **new c
 
 ---
 
-Would you like a downloadable PDF or DOCX version of this guide as well?
