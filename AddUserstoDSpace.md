@@ -11,12 +11,17 @@ Before assigning roles, you must first create user accounts.
 2. Click **Access Control** → **People**
 3. Click **Add E-Person**
 
+    <img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/Admin-dashboard-Epeople-01.png" alt="image" style="max-width: 100%;width: 200px;">
+
 For each user, fill in:
 
 * **Email**: e.g., `student123@uni.edu`
 * **First Name** / **Last Name**: e.g., `Student / One`
 * **Password**: Set a default or temporary password
 * Click **Create**
+
+  <img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/Add-Epeople-subimitter.png?raw=true" alt="image" style="max-width: 100%;width: 450px;">
+  
 
 Repeat this for all the users you want to assign roles to, such as:
 
