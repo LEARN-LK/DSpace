@@ -24,8 +24,11 @@
       -   [Create Community, Sub-Community & Collection](https://github.com/LEARN-LK/DSpace/blob/main/siteadmin.md)
       -   [Add Users to Each Role in DSpace](https://github.com/LEARN-LK/DSpace/blob/main/AddUserstoDSpace.md)        
 2. [Submitter]()
-3. [Collection Admin]()
-4. [Community Admin]()
+3. [Reviewer]()
+4. [Editor]()
+5. [Final Editor]()
+6. [Collection Admin]()
+7. [Community Admin]()
 
 
 
