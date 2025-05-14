@@ -25,6 +25,7 @@
    - **Date**: `2025-04-25`
    - **Abstract**: `A smart traffic solution using computer vision and machine learning.`
    - Upload a sample PDF (optional in demo)
+   - tick on licence Agreement
 
 <img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/submit-dspace-add-research.png?raw=true" alt="image" style="max-width: 100%;width: 500px;">
 
