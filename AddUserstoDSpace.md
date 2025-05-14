@@ -51,12 +51,22 @@ Navigate to:
 ### 👤 **Submitter** (e.g., `student123@uni.edu`)
 
 1. In the **Submitters** section, click **Create**
+   
+<img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/submitter-add-01.png" alt="image" style="max-width: 100%;width: 450px;">
+    
 2. Click on the generated group (e.g., `COLLECTION_..._SUBMIT`)
+
+<img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/submitter-add-02.png" alt="image" style="max-width: 100%;width: 450px;">
+
+   
 3. Click **Add E-Person**
 4. Search for the email (e.g., `student123@uni.edu`)
 
    * If not found, go back and add the E-Person first (Step 4.1)
 5. Select the user → Click **Add**
+
+<img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/submitter-add-03.png" alt="image" style="max-width: 100%;width: 450px;">
+   
 6. Click **Save Changes**
 
 ---
