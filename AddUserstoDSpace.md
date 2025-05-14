@@ -9,9 +9,10 @@ Before assigning roles, you must first create user accounts.
 
 1. Go to the **Admin Toolbar**
 2. Click **Access Control** → **People**
+<img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/Admin-dashboard-Epeople-01.png" alt="image" style="max-width: 100%;width: 200px;">
+   
 3. Click **Add E-Person**
-
-    <img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/Admin-dashboard-Epeople-01.png" alt="image" style="max-width: 100%;width: 200px;">
+<img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/add-Epeople.png" style="max-width: 100%;width: 600px;">
 
 For each user, fill in:
 
@@ -19,6 +20,8 @@ For each user, fill in:
 * **First Name** / **Last Name**: e.g., `Student / One`
 * **Password**: Set a default or temporary password
 * Click **Create**
+
+
 
   <img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/Add-Epeople-subimitter.png?raw=true" alt="image" style="max-width: 100%;width: 450px;">
   
