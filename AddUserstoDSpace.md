@@ -12,7 +12,7 @@ Before assigning roles, you must first create user accounts.
 <img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/Admin-dashboard-Epeople-01.png" alt="image" style="max-width: 100%;width: 200px;">
    
 3. Click **Add E-Person**
-<img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/Add-Epeople-subimitter.png?raw=true" style="max-width: 100%;width: 600px;">
+<img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/add-Epeople.png?raw=true" style="max-width: 100%;width: 600px;">
 
 For each user, fill in:
 
