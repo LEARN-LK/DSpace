@@ -24,6 +24,7 @@
    - **Author**: `John Doe`
    - **Date**: `2025-04-25`
    - **Abstract**: `A smart traffic solution using computer vision and machine learning.`
+   - **Type:**
    - Upload a sample PDF (optional in demo)
    - tick on licence Agreement
 
