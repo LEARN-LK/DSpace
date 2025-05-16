@@ -1,25 +1,27 @@
-Here’s a breakdown of the **roles and their responsibilities** after a submitter submits a research paper to the **Final Year Projects 2024** collection, along with their next steps:
 
----
+### 01. **Reviewer (e.g., [prof.reviewer@uni.edu](mailto:prof.reviewer@uni.edu))**
 
-### **1. Reviewer**  
-**Role**: Evaluates submissions for quality, relevance, and compliance with guidelines.  
-**What the Reviewer Does**:  
-1. **Access Submission**:  
-   - Log in to DSpace as the reviewer (e.g., `prof.reviewer@uni.edu`).  
-   - Go to **Administration → Submissions → Final Year Projects 2024**.  
-2. **Review the Submission**:  
-   - Check the **title**, **abstract**, **metadata**, and **uploaded file** (e.g., PDF).  
-   - Verify compliance with guidelines (e.g., formatting, plagiarism, scope).  
-3. **Approve/Reject/Request Changes**:  
-   - **Approve**: Send the submission to the next workflow step (e.g., editing).  
-   - **Reject**: Return to the submitter with comments (e.g., *"Insufficient methodology section"*).  
-   - **Request Revisions**: Ask the submitter to revise and resubmit.  
+**Role Description**:
+Performs **initial quality and research content review**.
+Ensures the submission is original, complete, and meets the collection’s academic standards.
+
+**Actions**:
+
+* Log in.
+* Click **Profile → MyDSpace → Workflow Tasks**.
+* Open the assigned submission.
+* Review the research paper.
+* Options:
+
+  * **Approve** → sends to Editor.
+  * **Reject** → notifies Submitter of rejection.
+  * **Request revisions** → sends back to Submitter.
 
 **Example Reviewer Comments**:  
 > *"The methodology section lacks detail. Please add a flowchart of your experimental process and resubmit."*  
 
 ---
+
 
 ### **2. Editor**  
 **Role**: Ensures metadata accuracy, improves item visibility, and curates content.  
@@ -79,4 +81,65 @@ Here’s a breakdown of the **roles and their responsibilities** after a submitt
 - **Editor**: `Administration → Curate → [Collection Name]`  
 - **Site Admin**: `Administration → Submissions` (for final approval).  
 
-Let me know if you need further details! 😊
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+
+
+
+
+---
+
+#### 🛠 **Editor (e.g., [editor.cs@uni.edu](mailto:editor.cs@uni.edu))**
+
+**Role Description**:
+Responsible for **metadata editing, formatting checks, and curation**.
+
+**Actions**:
+
+* Log in.
+* Click **Profile → MyDSpace → Workflow Tasks**.
+* Open the assigned submission.
+* Review and improve metadata (title, abstract, authors, keywords).
+* Approve and send to **Final Editor**, or mark complete if no Final Editor.
+
+---
+
+#### ✍️ **Final Editor (e.g., [finaleditors.cs@uni.edu](mailto:finaleditors.cs@uni.edu))**
+
+**Role Description**:
+Performs **final verification and quality assurance before publication**.
+
+**Actions**:
+
+* Log in.
+* Click **Profile → MyDSpace → Workflow Tasks**.
+* Open the assigned submission.
+* Perform last checks (licensing, embargo, formatting).
+* Approve → Item becomes **published and publicly visible** in **Final Year Projects 2024** collection.
+
+---
+
+Would you also like me to prepare a **final clean workflow chart + user login steps for each role** (including screenshots placeholders)?
+If yes, just say "**Yes, with chart.**"
+
