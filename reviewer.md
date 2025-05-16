@@ -7,20 +7,19 @@ Ensures the submission is original, complete, and meets the collection’s acade
 
 **Actions**:
 
-* Log in.
-* Click **Profile [1]→ MyDSpace [2]→ Workflow Tasks [3]**.
+1. Log in.
+2. Click **Profile [1]→ MyDSpace [2]→ Workflow Tasks [3]**.
 
 <img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/reviewer-01.png" alt="image" style="max-width: 100%;width: 400px;">  
-* Open the assigned submission.
+3. Open the assigned submission.
  <img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/reviewer-02.png" alt="image" style="max-width: 100%;width: 700px;">
+4. Review the research paper [4].
+   
+   **Options:**
+   - **Approve** [5] → sends to Editor.
 
-  
-* Review the research paper [4].
-* Options:
-
-  * **Approve** [5] → sends to Editor.
-  * **Reject** [6]→ notifies Submitter of rejection.
-  * **Request revisions** → sends back to Submitter.
+- **Reject** [6]→ notifies Submitter of rejection.
+- **Request revisions** → sends back to Submitter.
  <img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/reviewer-03.png" alt="image" style="max-width: 100%;width: 600px;">
 
 
