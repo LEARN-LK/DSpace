@@ -34,7 +34,7 @@ Ensures the submission is original, complete, and meets the collection’s acade
 **What the Editor Does**:  
 1. **Access the Approved Submission**:  
    - Log in as the editor (e.g., `editor.cs@uni.edu`).  
-   - Go to **Administration → Curate → Final Year Projects 2024**.  
+   - Click **Profile [1]→ MyDSpace [2]→ Workflow Tasks [3]**..  
 2. **Edit Metadata**:  
    - Fix typos in the title/abstract.  
    - Add missing keywords (e.g., *"machine learning, climate modeling"*).  
