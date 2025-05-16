@@ -8,14 +8,21 @@ Ensures the submission is original, complete, and meets the collection’s acade
 **Actions**:
 
 * Log in.
-* Click **Profile → MyDSpace → Workflow Tasks**.
+* Click **Profile [1]→ MyDSpace [2]→ Workflow Tasks [3]**.
+
+<img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/reviewer-01.png" alt="image" style="max-width: 100%;width: 400px;">  
 * Open the assigned submission.
-* Review the research paper.
+ <img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/reviewer-02.png" alt="image" style="max-width: 100%;width: 700px;">
+
+  
+* Review the research paper [4].
 * Options:
 
-  * **Approve** → sends to Editor.
-  * **Reject** → notifies Submitter of rejection.
+  * **Approve** [5] → sends to Editor.
+  * **Reject** [6]→ notifies Submitter of rejection.
   * **Request revisions** → sends back to Submitter.
+ <img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/reviewer-03.png" alt="image" style="max-width: 100%;width: 600px;">
+
 
 **Example Reviewer Comments**:  
 > *"The methodology section lacks detail. Please add a flowchart of your experimental process and resubmit."*  
