@@ -34,14 +34,18 @@ Ensures the submission is original, complete, and meets the collection’s acade
 **What the Editor Does**:  
 1. **Access the Approved Submission**:  
    - Log in as the editor (e.g., `editor.cs@uni.edu`).  
-   - Click **Profile [1]→ MyDSpace [2]→ Workflow Tasks [3]**..  
+   - Click **Profile [1]→ MyDSpace [2]→ Workflow Tasks [3]**..
+     <img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/reviewer-01.png" alt="image" style="max-width: 100%;width: 400px;">  
+
 2. **Edit Metadata**:  
    - Fix typos in the title/abstract.  
    - Add missing keywords (e.g., *"machine learning, climate modeling"*).  
    - Ensure Dublin Core fields (author, date, subject) are accurate.  
 3. **Curate the Item**:  
    - Assign a persistent identifier (e.g., Handle or DOI).  
-   - Link related items (e.g., datasets, code repositories).  
+   - Link related items (e.g., datasets, code repositories).
+     <img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/reviewer-01.png" alt="image" style="max-width: 100%;width: 400px;">  
+
 
 **Example Editor Actions**:  
 > *Added keywords "AI ethics" and corrected author affiliation formatting.*  
