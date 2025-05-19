@@ -35,7 +35,11 @@ Ensures the submission is original, complete, and meets the collection’s acade
 1. **Access the Approved Submission**:  
    - Log in as the editor (e.g., `editor.cs@uni.edu`).  
    - Click **Profile [1]→ MyDSpace [2]→ Workflow Tasks [3]**..
-     <img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/reviewer-01.png" alt="image" style="max-width: 100%;width: 400px;">  
+
+     <img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/Editor-01.png" alt="image" style="max-width: 100%;width: 400px;">  
+     
+     <img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/Editor%20-02.png" alt="image" style="max-width: 100%;width: 400px;">  
+     
 
 2. **Edit Metadata**:  
    - Fix typos in the title/abstract.  
@@ -44,7 +48,9 @@ Ensures the submission is original, complete, and meets the collection’s acade
 3. **Curate the Item**:  
    - Assign a persistent identifier (e.g., Handle or DOI).  
    - Link related items (e.g., datasets, code repositories).
-     <img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/reviewer-01.png" alt="image" style="max-width: 100%;width: 400px;">  
+
+     <img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/Editor-03.png" alt="image" style="max-width: 100%;width: 400px;">  
+     <img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/Editor-04.png" alt="image" style="max-width: 100%;width: 400px;">
 
 
 **Example Editor Actions**:  
