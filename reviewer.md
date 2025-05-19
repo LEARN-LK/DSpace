@@ -156,6 +156,3 @@ Performs **final verification and quality assurance before publication**.
 
 ---
 
-Would you also like me to prepare a **final clean workflow chart + user login steps for each role** (including screenshots placeholders)?
-If yes, just say "**Yes, with chart.**"
-
