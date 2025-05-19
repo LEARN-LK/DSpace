@@ -38,7 +38,7 @@ Ensures the submission is original, complete, and meets the collection’s acade
 
      <img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/Editor-01.png" alt="image" style="max-width: 100%;width: 400px;">  
      
-     <img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/Editor%20-02.png" alt="image" style="max-width: 100%;width: 400px;">  
+     <img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/Editor%20-02.png" alt="image" style="max-width: 100%;width: 600px;">  
      
 
 2. **Edit Metadata**:  
