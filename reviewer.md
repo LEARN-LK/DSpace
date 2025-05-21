@@ -62,11 +62,17 @@ Ensures the submission is original, complete, and meets the collection’s acade
 **Role**: Oversees final approval and publication.  
 **What the Site Admin Does**:  
 1. **Final Review**:  
-   - Log in as the Site Admin (e.g., `dspacedemo+admin@gmail.com`).  
-   - Go to **Administration → Submissions → Final Year Projects 2024**.  
+   - Log in as the Final Editor (e.g., `finaleditor@gmail.com`).
+
+      <img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/FinalEditor-01.png" alt="image" style="max-width: 100%;width: 400px;">
+   - Click **Profile [1]→ MyDSpace [2]→ Workflow Tasks [3]**..
+
+      <img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/finalEditor-02.png" alt="image" style="max-width: 100%;width: 400px;">
 2. **Approve for Archiving**:  
    - Ensure the submission meets institutional standards.  
-   - Click **Accept** to publish the item to the collection.  
+   - Click **Accept** to publish the item to the collection.
+
+      <img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/finalEditor-03.png" alt="image" style="max-width: 100%;width: 400px;">
 3. **Assign Access Rights**:  
    - Set embargo periods (if needed).  
    - Confirm licensing (e.g., Creative Commons).  
