@@ -76,16 +76,4 @@
 
 ---
 
-## Step 4: **Assign Collection Admin or Submitter (Optional)**
-
-If user roles were customizable in demo (they are limited), you would:
-
-1. Go to the Collection page
-2. Click **“Edit Collection”** (gear icon or action menu)
-3. Go to **Roles** tab
-4. Assign:
-   - **Submitter** role to: `dspacedemo+submit@gmail.com`
-   - **Reviewer/Editor** role to: `dspacedemo+colladmin@gmail.com`
-
----
 
