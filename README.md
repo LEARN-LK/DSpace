@@ -1,6 +1,7 @@
 ## **What is DSpace?**
 **DSpace** is an open-source repository software platform used by institutions to store, manage, and share digital content like research papers, theses, dissertations, images, and videos. It is widely used in universities, research centers, and libraries for long-term preservation and easy access to digital assets.
 
+<!--
 ### **Role Descriptions in DSpace 8**
 1. **Submitter** is the person who uploads items like theses, research papers, or reports to the DSpace repository. Usually, this could be a student, researcher, or faculty member. Their role is to start the submission process by filling out the required metadata (like title, author, and abstract) and uploading their files. Submitters can revise or delete their drafts until the item moves into the review workflow.
 2. **Reviewer** is the first person to check a submitted item. Think of them as the quality checker who ensures the work is relevant, complete, and follows basic submission standards. They can either approve the item, request changes, or reject it. Reviewers often leave feedback for the submitter if anything needs improvement. This role is commonly filled by professors, supervisors, or academic staff involved in evaluating student or research work.
@@ -11,7 +12,7 @@
 7. **Site Admin** has full control over the entire DSpace system. They can create users, set up roles, configure workflows, manage metadata schemas, and customize system-wide settings. If something needs to be changed at the platform level — whether it's a bug fix or a new feature — the Site Admin handles it. This is typically the role of an IT admin, system developer, or repository manager.
 
 ---
-
+-->
 
 
 ##  Full DSpace 8 Workflow Guide with Example Scenario
