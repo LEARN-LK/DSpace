@@ -6,7 +6,6 @@ At **LEARN**, access to DSpace is provided **only through Single Sign-On (SSO)**
 * **EduID** (Federated Identity for Sri Lankan academia)
 * **Shibboleth** (International SSO framework)
 
-This ensures **secure, seamless, and federated login** across educational institutions in Sri Lanka and globally.
 
 ---
 
