@@ -83,7 +83,7 @@ You can track how often your content is viewed or downloaded, helping you unders
 
 
 1. [Create Community, Sub-Community & Collection](https://github.com/LEARN-LK/DSpace/blob/main/siteadmin.md)
-2. [Community admin/Faculty Admin), Collections admin/Department Admin)]()
+2. [Community admin/Faculty Admin), Collections admin/Department Admin)](https://github.com/LEARN-LK/DSpace/blob/main/Community&Collection-Admin.md)
 3. Add Users to Each Role in DSpace](https://github.com/LEARN-LK/DSpace/blob/main/AddUserstoDSpace.md)
 4. [Submitter](https://github.com/LEARN-LK/DSpace/blob/main/Submitter.md)
 5. [Reviewer/Editor/FinalEditor](https://github.com/LEARN-LK/DSpace/blob/main/reviewer_editor_finalEditor.md)
