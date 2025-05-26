@@ -8,6 +8,12 @@
    -  Email: `dspacedemo+submit@gmail.com`
    -  Password: `dspacedemo`
 
+**Note:** **At LEARN, access to DSpace is provided only through Single Sign-On (SSO). Users must log in using:**
+   - EduID (Federated Identity for Sri Lankan academia)
+   - Shibboleth (International SSO framework)
+
+     
+
 2. Go to **My DSpace**
 
 3. In the right sidebar, click the **`+` icon** → select **Item**
