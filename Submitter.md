@@ -1,6 +1,6 @@
 #  **DSpace 8 Workflow**
 
-# Submitter
+### Submitter
 
 ---
 
@@ -17,7 +17,7 @@ Start by visiting your institution’s DSpace site. Instead of a regular usernam
 3. On the next page, click the **➕ plus icon** or "Start a New Submission".
 4. Choose the correct collection to submit to — for example:
 
-> 📁 `Faculty of Science > Computer Science > Final Year Projects 2024`
+>  `Faculty of Science > Computer Science > Final Year Projects 2024`
 
 This tells the system where your paper belongs.
 
@@ -46,8 +46,6 @@ Now it’s time to enter your paper’s info .
 * **Type**: Thesis? Project? Choose from the list
 * **Sponsors**: Who funded or supported your work
 * **Description**: Anything extra you'd like to add
-
->  **Tip**: If you’re not done and want to come back later, click **"Save for Later"**. Your work will be safely stored as a draft in **MyDSpace**.
 
 ---
 
