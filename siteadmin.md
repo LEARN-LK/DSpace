@@ -1,4 +1,15 @@
 
+## 🔐 Access via SSO Login (EduID & Shibboleth)
+
+At **LEARN**, access to DSpace is provided **only through Single Sign-On (SSO)**. Users must log in using:
+
+* **EduID** (Federated Identity for Sri Lankan academia)
+* **Shibboleth** (International SSO framework)
+
+This ensures **secure, seamless, and federated login** across educational institutions in Sri Lanka and globally.
+
+---
+
 ##  Step 1: **Login as Site Administrator [1]**
 
   <img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/SA1-siteadmin-login.png" alt="image" style="max-width: 100%;width: 500px;">
