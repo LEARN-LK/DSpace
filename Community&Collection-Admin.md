@@ -4,7 +4,7 @@ In **DSpace 8**, roles are designed to distribute responsibility while maintaini
 
 ---
 
-### 👤 Community Administrator
+###  Community Administrator
 
 The **Community Admin** helps manage a section of the DSpace repository — known as a *community*. This could be something like a **faculty, department, or research unit**.
 
@@ -23,7 +23,7 @@ However, there are some limits:
 
 ---
 
-### 📁 Collection Administrator
+###  Collection Administrator
 
 The **Collection Admin** is in charge of a specific *collection*, such as a **group of student theses or a journal's published articles**.
 
@@ -42,7 +42,7 @@ But they’re also limited in scope:
 
 ---
 
-### 🧾 Quick Comparison Table
+###  Quick Comparison Table
 
 | What They Can Do                 | Community Admin | Collection Admin |
 | -------------------------------- | --------------- | ---------------- |
