@@ -1,4 +1,4 @@
-## 🧭 Understanding Community and Collection Admin Roles in DSpace 8
+##  Understanding Community and Collection Admin Roles in DSpace 8
 
 In **DSpace 8**, roles are designed to distribute responsibility while maintaining proper control over content. Two important roles in this system are **Community Administrator** and **Collection Administrator**. Here's what each role can (and can’t) do — explained simply.
 
