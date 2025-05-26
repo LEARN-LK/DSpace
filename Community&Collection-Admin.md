@@ -55,5 +55,3 @@ But they’re also limited in scope:
 | Create user accounts (E-People)  |  No             |   No             |
 | Access global site configuration |  No             |    No            |
 
----
-
