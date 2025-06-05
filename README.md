@@ -7,10 +7,10 @@ It’s trusted by institutions around the world to make academic work more disco
 
 ##  Key Features That Make DSpace Powerful
 
-####  **1.Permanent URLs for Every Item** 
+####  **1. Permanent URLs for Every Item** 
 Each submission gets a unique, **permanent link** (called a Handle or DOI). This means you can confidently cite your work knowing the link will always work—no matter what changes behind the scenes.
 
-#### **2.Integrations with Scholarly Tools**
+#### **2. Integrations with Scholarly Tools**
 
 DSpace plays well with others—it integrates with tools like:
 - ORCID (for researcher identifiers)
@@ -18,38 +18,38 @@ DSpace plays well with others—it integrates with tools like:
 - SWORD (for repository deposits)
 - and other academic services—enhancing your repository’s reach and interoperability.
 
-####  **3.Open Access & Search Engine Friendly**
+####  **3. Open Access & Search Engine Friendly**
 
 DSpace works with academic databases and search engines by supporting standards like **OAI-PMH**, so your work can reach a global audience.
 
-####  **4.Clear, Structured Organization**  
+####  **4. Clear, Structured Organization**  
 Content in DSpace is neatly organized into **communities**, **sub-communities**, and **collections**. For example, a university might have a Faculty of Science community, with a Computer Science sub-community, and a "Final Year Projects" collection within it. Simple and intuitive.
 
-####  **5.Easy Search and Browse**
+####  **5. Easy Search and Browse**
 
 Users can **search by title, author, subject, or date**, or just browse through collections. Filters and sorting tools make it easy to find exactly what you’re looking for.
 
-####  **6.Custom Roles and Permissions**
+####  **6.  Custom Roles and Permissions**
 
 Whether you're a student submitting a paper or a librarian reviewing entries, DSpace allows admins to assign roles and permissions so everyone has access to just what they need.
 
-####  **7.Flexible Submission Workflow**
+####  **7. Flexible Submission Workflow**
 
 DSpace supports multi-step review processes. A submission can be checked by reviewers and editors before it’s officially approved and published.
 
-####  **8.Rich Metadata Support**
+####  **8. Rich Metadata Support**
 
 DSpace uses metadata (like title, author, subject, etc.) to keep everything well-organized and searchable. It supports standards like Dublin Core to ensure quality cataloging.
 
-####  **9.Multilingual and Customizable**
+####  **9. Multilingual and Customizable**
 
 Want to use DSpace in your own language? No problem. You can also customize how it looks and feels to match your institution’s branding.
 
-####  **10.Preservation for the Long Run**
+####  **10. Preservation for the Long Run**
 
 DSpace is built to keep your content **safe and accessible over time**, using checksums, version control, and backup-friendly features.
 
-####  **11.Usage Statistics**
+####  **11. Usage Statistics**
 
 You can track how often your content is viewed or downloaded, helping you understand how your repository is being used.
 
