@@ -32,7 +32,8 @@ To try out ORCID integration without affecting any real data, you’ll first nee
    * Only me
 
      <img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/orcid-04.png" alt="image" style="max-width: 100%;width: 300px;">
-     <img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/orcid-05.png" alt="image" style="max-width: 100%;width: 400px;">
+     <img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/orcid-05.png" alt="image" style="max-width: 100%;width: 300px;">
+     <img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/orcid-03.png" alt="image" style="max-width: 100%;width: 300px;">
 
 7. **Verify your email**:
    ORCID will send you a verification email. Click the link in that email to activate your account.
