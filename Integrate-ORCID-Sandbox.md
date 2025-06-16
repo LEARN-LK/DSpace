@@ -7,7 +7,6 @@
 
 To try out ORCID integration without affecting any real data, you’ll first need a **Sandbox ORCID iD**.
 
-###  Here’s how:
 
 1. **Visit the registration page**:
    Go to [https://sandbox.orcid.org/register](https://sandbox.orcid.org/register)
