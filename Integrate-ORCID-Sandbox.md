@@ -43,24 +43,76 @@ To try out ORCID integration without affecting any real data, you’ll first nee
 
 ## 🔗 Step 2: Link Your ORCID ID with DSpace (Demo Site)
 
-Once your ORCID Sandbox account is ready, now let’s connect it to DSpace.
 
-###  Steps:
+###  Step 1: Log In to Your DSpace Portal
 
-1. **Go to the DSpace demo site**:
-   For example: [https://demo7.dspace.org/](https://demo7.dspace.org/)
+* Head over to your institution’s DSpace website.
+* Log in using your credentials (e.g., `###@learn.ac.lk`).
 
-2. **Log in or register**:
-   Use any test account. (You can create one if needed.)
+---
 
-3. **Go to your profile/account settings**:
-   Click on your username at the top right → select **My Profile** or **Account Settings**.
+###  Step 2: Go to Your Profile
 
-4. **Look for ORCID connection**:
-   You’ll see a button like **“Connect your ORCID iD”**.
+* Once logged in, click on your name or icon at the top and select **Profile** → **Update Profile**.
 
-5. **Authorize access**:
-   You’ll be redirected to the ORCID site.
-   Log in using your **sandbox account**, and allow permission to connect it with DSpace.
+<img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/Dspace-orcid-01.png" alt="image" style="max-width: 100%;width: 300px;">
+  
+
+---
+
+###  Step 3: Open ORCID Settings
+
+* On your profile page, look for the **“Click on View”** button and click it.
+
+   <img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/Dspace-orcid-02.png" alt="image" style="max-width: 100%;width: 300px;">
+
+---
+
+###  Step 4: Connect Your ORCID iD
+
+* You’ll now be on the **ORCID Authorizations** page.
+
+  <img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/Dspace-orcid-03.png" alt="image" style="max-width: 100%;width: 400px;">
+* Click on **“Connect to ORCID ID”** to begin the linking process.
+
+  <img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/Dspace-orcid-04.png" alt="image" style="max-width: 100%;width: 400px;">
+
+---
+
+###  Step 5: Authorize DSpace in ORCID
+
+* You’ll be redirected to the official ORCID site.
+* Log in to your ORCID account (e.g., `Gayan Lakmal BANDARA`).
+* Review the access DSpace is requesting:
+
+  *  Add or update your profile info (like country or keywords)
+  *  Add or update research activities (like publications)
+  * ☐ (Optional) Read trusted-party data
+  * ☐ (Optional) Get your ORCID iD
+* Click **“Authorize access”** to proceed.
+
+<img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/Dspace-orcid-05.png" alt="image" style="max-width: 100%;width: 400px;">
+
+---
+
+###  Step 6: You're All Set!
+
+* After authorizing, you’ll be taken back to DSpace.
+* The **ORCID Authorizations** page will now confirm the connection.
+* You’ll see which permissions were granted, such as:
+
+  * Get your ORCID iD
+  * Read trusted-party data
+  * Add/update research activities
+  * Add/update profile info
+
+     <img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/Dspace-orcid-06.png" alt="image" style="max-width: 100%;width: 500px;">
+---
+
+### Troubleshooting Tips
+
+* Make sure you're using **the same email** in both DSpace and ORCID.
+* If something goes wrong, click **"Disconnect from ORCID"** and repeat the process from Step 4.
+* If you're testing in a **sandbox environment** (like `sandbox.orcid.org`), make sure you’re using a **sandbox ORCID account**.
 
 
