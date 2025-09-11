@@ -71,7 +71,7 @@ You can track how often your content is viewed or downloaded, helping you unders
 
 
 ##  Full DSpace 8 Workflow Guide with Example Scenario
-###  Target: Practice the real-world workflow in [DSpace 8 Demo Site](https://demo.dspace.org/xmlui)
+###  Target: Practice the real-world workflow in [DSpace Site](https://dspace.ac.lk/)
 ##  **Scenario**
 
 > The university wants to set up a new community for the **Faculty of Science**.
