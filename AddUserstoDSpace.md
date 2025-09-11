@@ -3,7 +3,7 @@
 
 ---
 
-#### 🧭 **Step 4.1: Add Users (E-People) to the System** [1]
+<!-- #### 🧭 **Step 4.1: Add Users (E-People) to the System** [1]
 
 Before assigning roles, you must first create user accounts.
 
@@ -33,9 +33,9 @@ Repeat this for all the users you want to assign roles to, such as:
 * `editor.cs@uni.edu`
 * `finaleditors.cs@uni.edu`
 
----
+---    -->
 
-#### 🧭 **Step 4.2: Assign Roles to Users**
+#### 🧭 **Step 4.1: Assign Roles to Users**
 
 Navigate to:
 **Administration → Communities & Collections → Faculty of Science → Computer Science → Final Year Projects 2024**
