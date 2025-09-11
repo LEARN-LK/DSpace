@@ -14,8 +14,8 @@ At **LEARN**, access to DSpace is provided **only through Single Sign-On (SSO)**
   <img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/SA1-siteadmin-login.png" alt="image" style="max-width: 100%;width: 500px;">
 
 - 📧 Email: `dspacedemo+admin@gmail.com`  
-- 🔐 Password: `dspacedemo`  
-- 🔗 Link: [https://demo.dspace.org/xmlui](https://demo.dspace.org/xmlui)
+- 🔐 Password: `###`  
+- <!-- 🔗 Link: [https://demo.dspace.org/xmlui](https://demo.dspace.org/xmlui)-->
 
 ---
 
