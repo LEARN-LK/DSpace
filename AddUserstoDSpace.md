@@ -38,7 +38,7 @@ Repeat this for all the users you want to assign roles to, such as:
 #### 🧭 **Step 4.1: Assign Roles to Users**
 
 Navigate to:
-**Administration → Communities & Collections → Faculty of Science → Computer Science → Final Year Projects 2024**
+**Communities & Collections → Faculty of Science → Computer Science → Final Year Projects 2024**
 
 1. On the right side, click the **Edit button (pencil icon) [4]** for the **Final Year Projects 2024** collection.
 <img src="https://github.com/LEARN-LK/DSpace/blob/main/imgs/eAR1-Editrole.png" alt="image" style="max-width: 100%;width: 450px;">   
